@@ -1,5 +1,10 @@
 body {
+    background-color: #290742;
+    margin: 0 auto;
     font-family: Arial, Helvetica, sans-serif;
+}
+
+.cont {
     margin: 0 auto;
     width: 1080px;
     margin-top: 50px;
@@ -82,5 +87,48 @@ nav {
     display: flex;
     justify-content: flex-start;
     align-items: center;
+}
 
+#linha-verde {
+    height: 5px;
+    background-color: #40FF00;
+    border: none;
+    margin-bottom: -40px;
+}
+
+.container2 {
+    background: #F2FBEF;
+    display: flex;
+    margin-top: 40px;
+    height: 100vh;
+}
+
+#imagem-post1 {
+    width: 500px;
+}
+
+.post1 {
+    width: 1080px;
+    margin-top: 40px;
+    margin-left: 40px;
+} 
+
+.post1 h1 {
+    margin-top: 20px;
+    color: #9e6dc2;
+    line-height: 2.3rem;
+}
+
+.post2 {
+    margin-top: 40px;
+    width: 1080px;
+}
+
+.post2 h1 {
+    color: #9e6dc2;
+    line-height: 2.3rem;
+}
+
+.post3 {
+    margin-top: 40px;
 }
