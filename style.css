@@ -4,11 +4,10 @@ body {
     font-family: Arial, Helvetica, sans-serif;
 }
 
-.cont {
+.container {
     margin: 0 auto;
     width: 1080px;
     margin-top: 50px;
-    background-color: #290742;
 }
 
 header {
@@ -59,7 +58,7 @@ nav {
     width: 2.5rem;
 }
 
-.container {
+.container1 {
     display: flex;
     margin-top: 40px;
     gap: 10rem;
@@ -131,4 +130,34 @@ nav {
 
 .post3 {
     margin-top: 40px;
+}
+
+.container3 {
+    display: flex;
+    background-color: #F2FBEF;
+    width: 1080px;
+    justify-content: space-around;
+    margin-top: -70px;  
+    height: 80vh;
+}
+
+.container3 img {
+    width: 300px;
+}
+
+.container3 h1{
+    color: #9e6dc2;
+    line-height: 2.0rem;
+    font-size: 1.3rem;
+    width: 300px;
+}
+
+.container3 p {
+    width: 300px;
+    text-align: justify;
+}
+
+footer {
+    color: white;
+    text-align: center;
 }
