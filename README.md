@@ -13,6 +13,18 @@ https://mcarnelos.github.io/projeto-rocketblog/
 ## Front end
 - HTML / CSS
 
+# Como executar o projeto
+
+## Front end
+
+```bash
+# clonar repositório
+git clone https://github.com/mcarnelos/projeto-rocketblog
+
+# entrar na pasta projeto-rocketblog
+abrir na IDE de preferência, no meu caso foi utilizado o Visual Studio Code.
+```
+
 # Autor
 
 Murilo Carnelós
